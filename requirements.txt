@@ -4,7 +4,7 @@ umap-learn
 sklearn
 colormath
 xlrd
-pandas=1.1.0
+pandas==1.1.0
 matplotlib
 voila
 voila-gridstack
