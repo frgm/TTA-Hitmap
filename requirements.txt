@@ -1,10 +1,11 @@
-mpld3
-seaborn
-umap-learn
-sklearn
-colormath
-xlrd
 pandas==1.1.0
+sklearn
+umap-learn
 matplotlib
+seaborn
+colormath
+ipympl
+mplcursors
+xlrd
 voila
 voila-gridstack
