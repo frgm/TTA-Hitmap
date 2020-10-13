@@ -7,5 +7,6 @@ colormath
 ipympl
 mplcursors
 xlrd
-voila
+ipywidgets
+voila>=0.1.8
 voila-gridstack
