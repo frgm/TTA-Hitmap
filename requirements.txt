@@ -9,4 +9,4 @@ mplcursors
 xlrd
 ipywidgets
 voila>=0.1.8
-voila-gridstack
+voila-gridstack==0.0.9
