@@ -1,6 +1,6 @@
 {
   "VoilaConfiguration": {
-    "theme": "dark",
+    "theme": "light",
     "template": "gridstack"
   }
 }
