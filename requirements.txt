@@ -8,5 +8,6 @@ ipympl
 mplcursors
 xlrd
 ipywidgets
+nbconvert==5.6.1
 voila==0.1.23
 voila-gridstack==0.0.9
