@@ -23,6 +23,5 @@ umap-learn
 matplotlib
 seaborn
 colormath
-ipympl
 mplcursors
 
