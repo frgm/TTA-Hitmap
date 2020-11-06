@@ -902,5 +902,5 @@
 
 ## The interval (in seconds) on which to check for terminals exceeding the
 #  inactive timeout value.
-#c.TerminalManager.cull_interval = 300
-c.ExecutePreprocessor.timeout = 600
+c.TerminalManager.cull_interval = 600
+c.ExecutePreprocessor.timeout = 3000
